@@ -18,7 +18,7 @@ This portfolio showcases the real-world projects I’ve completed across automat
 ### Biological State Prediction Model
 - Used gene expression levels to predict process states and better understand underlying relationships
 - Tools: RStudio
-- [View Code on GitHub] insert hyperlink
+- [View Code/Documentation on GitHub] https://github.com/DanielSeanBrown/biological-stage-prediction
 
 ### Data Engineering for Bristol Polloution 
 - Used real time data to create a relational as well as a NoSQL database for data analysis
