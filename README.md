@@ -1,8 +1,13 @@
+# 👋 Hi, I'm Daniel Brown
 
-# Daniel Brown
+I'm an aspiring data proffesional and current MSc Data Science student with a background in mathematics, business analysis, and automation.
 
-MSc Data Science student building projects in Python, SQL, and R.
 
+By day, I  work in the corporate finance department at Heidelberg Materials, specifically within Accounts Payable. Outside of work, I build data science and engineering projects using Python, SQL, and other tools.
+
+This portfolio showcases the real-world projects I’ve completed across automation, machine learning, data visualisation, and analytics.
+
+---
 ## Projects
 
 ### Crop Classification Model
