@@ -1,13 +1,38 @@
-# Welcome to my portfolio
 
+# Daniel Brown
 
-Crop Classification
+MSc Data Science student building projects in Python, SQL, and R.
 
-Bioliogical Stage Prediction
+## Projects
 
-Bristol Air poloution Data Engineering
+### Crop Classification Model
+- Predicted ideal crops using soil feature data
+- Tools: Python, Scikit-Learn, Matplotlib, Seaborn
+- [View Code on GitHub] insert hyperlink
 
-Test Score Analysis & Trend Detection
+### Biological State Prediction Model
+- Used gene expression levels to predict process states and better understand underlying relationships
+- Tools: RStudio
+- [View Code on GitHub] insert hyperlink
 
-Travelling Salesman Heuristic Investigation
+### Data Engineering for Bristol Polloution 
+- Used real time data to create a relational as well as a NoSQL database for data analysis
+- Tools: SQL, Python, Laragon, PHPMyAdmin, MySQLWorkBench, MongoDB
+- [View Code on GitHub] insert hyperlink
 
+### Investigating Heuristic Soloutions to The Travelling Salesman Problem
+- Used python to explore heuristic methods for solving an NP-Complete problem
+- Tools: Python
+- [View Code on GitHub] insert hyperlink
+
+### Invoice Automation Script
+- Streamlined delivery note extraction for shcedualing agreements
+- This is a little idea I had to make my job in accounts payable easier
+- Tools: Python
+- [View Code on GitHub] insert hyperlink
+
+ 
+
+## Contact
+- 📧 danielseanbrown@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/daniel-brown-965865252)
