@@ -25,6 +25,11 @@ This portfolio showcases the real-world projects I’ve completed across automat
 - Tools: SQL, Python, Laragon, PHPMyAdmin, MySQLWorkBench, MongoDB
 - [View Code on GitHub] insert hyperlink
 
+### Data Analysis on Examination Performance
+- Used joins on multiple datasets to analyse trends between test performance, demographics and website engagement
+- Tools: Python, Pandas, Matplotlib, Seaborn, SciPy
+- [View Code on GitHub] insert hyperlink
+
 ### Investigating Heuristic Soloutions to The Travelling Salesman Problem
 - Used python to explore heuristic methods for solving an NP-Complete problem
 - Tools: Python
