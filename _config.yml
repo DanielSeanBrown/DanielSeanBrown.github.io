@@ -1,0 +1,16 @@
+title: "My Data Science Portfolio"
+description: "Projects, skills, and experience"
+remote_theme: "mmistakes/minimal-mistakes"
+
+nav:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
+
+plugins:
+  - jekyll-include-cache
