@@ -1,3 +1,15 @@
-This repository is used for hosting a portfolio webpage to showcase my coding work.
+Masters Projects:
+ - Bristol pollution data engineering
+ - Crop Classification
+ - Biological Process prediction Gene Expression
+ - Test Score Analysis
 
-Website design can be edited in the html.index file.
+UpTrail Internship Projects:
+ - Data Verification
+ - Data Cleaning
+ - ML Modelling
+ - Tableau Dashboard
+
+Miscellaneous:
+ - ...
+
